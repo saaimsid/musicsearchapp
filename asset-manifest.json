@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cb969e3.chunk.css",
-    "main.js": "/static/js/main.31781658.chunk.js",
-    "main.js.map": "/static/js/main.31781658.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7918a0be.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7918a0be.js.map",
-    "static/js/2.36960f10.chunk.js": "/static/js/2.36960f10.chunk.js",
-    "static/js/2.36960f10.chunk.js.map": "/static/js/2.36960f10.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.acb5bea22e90ddc74161f1e259eacf63.js": "/precache-manifest.acb5bea22e90ddc74161f1e259eacf63.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8cb969e3.chunk.css.map": "/static/css/main.8cb969e3.chunk.css.map",
-    "static/js/2.36960f10.chunk.js.LICENSE.txt": "/static/js/2.36960f10.chunk.js.LICENSE.txt"
+    "main.css": "https://saaimsid.github.io/musicsearchapp/static/css/main.8cb969e3.chunk.css",
+    "main.js": "https://saaimsid.github.io/musicsearchapp/static/js/main.31781658.chunk.js",
+    "main.js.map": "https://saaimsid.github.io/musicsearchapp/static/js/main.31781658.chunk.js.map",
+    "runtime-main.js": "https://saaimsid.github.io/musicsearchapp/static/js/runtime-main.cdb91fe1.js",
+    "runtime-main.js.map": "https://saaimsid.github.io/musicsearchapp/static/js/runtime-main.cdb91fe1.js.map",
+    "static/js/2.36960f10.chunk.js": "https://saaimsid.github.io/musicsearchapp/static/js/2.36960f10.chunk.js",
+    "static/js/2.36960f10.chunk.js.map": "https://saaimsid.github.io/musicsearchapp/static/js/2.36960f10.chunk.js.map",
+    "index.html": "https://saaimsid.github.io/musicsearchapp/index.html",
+    "precache-manifest.4f80fffae0f4afc00b8d59b338b02ef0.js": "https://saaimsid.github.io/musicsearchapp/precache-manifest.4f80fffae0f4afc00b8d59b338b02ef0.js",
+    "service-worker.js": "https://saaimsid.github.io/musicsearchapp/service-worker.js",
+    "static/css/main.8cb969e3.chunk.css.map": "https://saaimsid.github.io/musicsearchapp/static/css/main.8cb969e3.chunk.css.map",
+    "static/js/2.36960f10.chunk.js.LICENSE.txt": "https://saaimsid.github.io/musicsearchapp/static/js/2.36960f10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7918a0be.js",
+    "static/js/runtime-main.cdb91fe1.js",
     "static/js/2.36960f10.chunk.js",
     "static/css/main.8cb969e3.chunk.css",
     "static/js/main.31781658.chunk.js"
